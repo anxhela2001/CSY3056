@@ -1,22 +1,14 @@
 {
   "name": "csy3056",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anxhela2001/CSY3056.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anxhela2001/CSY3056/issues"
-  },
-  "homepage": "https://github.com/anxhela2001/CSY3056#readme",
-  "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
   }
