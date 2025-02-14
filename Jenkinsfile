@@ -1,6 +1,6 @@
 pipeline {
  agent {
- label 'CSY3056' // Ensures this runs on a Windows node
+ label 'CI Pipeline' // Ensures this runs on a Windows node
  }
  stages {
  stage('Clone Repository') {steps {
